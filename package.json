@@ -1,0 +1,14 @@
+{
+  "name": "ai-video-generator",
+  "version": "1.0.0",
+  "description": "AI Video Generator backend for Railway deployment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "Anubhav",
+  "license": "ISC"
+}
